@@ -20,6 +20,8 @@ The MNIST dataset is a collection of 28x28 grayscale images of handwritten digit
 - 8: Bag
 - 9: Ankle boot
 
+  Dataset Link : https://www.kaggle.com/datasets/zalando-research/fashionmnist
+
 
 ![epoch_1000_output](https://github.com/ghananjani/FashionFusion-Creating-Styles-with-GANs/assets/88573690/4011cee5-4fe1-4e8d-a591-cf239b4b6292)
 
